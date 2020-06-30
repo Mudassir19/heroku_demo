@@ -9,7 +9,7 @@ public class Controller {
 	@GetMapping(value="/demo")
 	public String hello()
 	{
-		return "deployement is done:";
+		return "Updated_deployement is done:";
 		
 	}
 
